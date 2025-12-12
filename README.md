@@ -106,16 +106,7 @@ Integration	Steps
 Apache Logs → Datadog	Install Agent → Enable Logs → Add Apache Log Paths → Restart
 Alertmanager → Datadog	Create Webhook → Modify alertmanager.yml → Restart Alertmanager
 
-If you want, I can also give you:
-✔ Full sample alert rules
-✔ Terraform/YAML configuration
-✔ How to create dashboards & alerts in Datadog
 
-Would you like that?
-
-You said:
-amazon linux 2023
-ChatGPT said:
 
 Here are the correct and updated steps for Amazon Linux 2023 to integrate Apache Logs and Prometheus Alertmanager with Datadog.
 
